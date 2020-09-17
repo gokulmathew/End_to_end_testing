@@ -1,0 +1,5 @@
+{
+  "baseUrl": "http://localhost:1001",
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "testFiles": ["login.spec.js", "form.spec.js", "api.spec.js"]
+}
